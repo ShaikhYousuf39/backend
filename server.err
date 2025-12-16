@@ -1,0 +1,12 @@
+2025-12-16 13:05:39,565 - httpx - INFO - HTTP Request: GET https://1046ba48-19f4-41e8-9eb0-d7574e0ac0f6.us-east4-0.gcp.cloud.qdrant.io:6333/collections/book_content "HTTP/1.1 200 OK"
+2025-12-16 13:05:39,574 - services.embedding_service - INFO - Collection 'book_content' already exists
+2025-12-16 13:05:42,838 - main - INFO - CORS enabled for origins: ['http://localhost:3000', 'https://yourdomain.github.io']
+INFO:     Started server process [8160]
+INFO:     Waiting for application startup.
+2025-12-16 13:05:42,917 - main - INFO - Starting Physical AI Textbook API...
+2025-12-16 13:05:46,400 - main - INFO - Database connection successful!
+2025-12-16 13:05:48,590 - main - INFO - Database tables initialized!
+2025-12-16 13:05:48,591 - main - INFO - All required environment variables are set
+2025-12-16 13:05:48,593 - main - INFO - API startup complete!
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)

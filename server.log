@@ -1,0 +1,5 @@
+Database connection successful!
+Initializing database...
+Database tables created successfully!
+Database connection successful!
+INFO:     127.0.0.1:62963 - "GET /health HTTP/1.1" 200 OK
